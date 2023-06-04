@@ -1,0 +1,13 @@
+{
+  "name": "ahuei",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "hangul-js": "^0.2.6"
+  }
+}
